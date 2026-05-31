@@ -1,0 +1,21 @@
+A második oszlop:
+
+<ul>
+	<li>Stílus: modern sportlétesítmény</li>
+	<li>Megnyitás éve: 2019</li>
+	<li>Helyszín: Budapest, Magyarország</li>
+	<li>Fő funkció: labdarúgó-mérkőzések</li>
+	<li>Befogadóképesség: több mint 65 000 fő</li>
+	<li>Kiemelt események: nemzetközi sport- és zenei rendezvények</li>
+</ul>
+
+A harmadik oszlop:
+
+<ul>
+	<li>Fedés: részben fedett lelátók</li>
+	<li>Világítás: korszerű LED-rendszer</li>
+	<li>Biztonság: modern beléptető és kamerarendszer</li>
+	<li>Kiemelt jellemző: többfunkciós aréna</li>
+	<li>Használat: sport, koncert, ünnepség</li>
+	<li>Turisztikai szerep: stadiontúrák és kiállítások</li>
+</ul>

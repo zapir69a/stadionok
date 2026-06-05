@@ -1,3 +1,8 @@
+* {
+	background-color: #eeeeee;
+}
+
+
 #felso
 {
 	margin-top: 30px;
@@ -17,4 +22,12 @@
 {
 	margin: auto;
 	display: block;
+}
+
+#tortenet {
+	font-weight: bold;
+}
+
+a {
+	font-weight: bold;
 }
